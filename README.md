@@ -1,2 +1,0 @@
-# ReactDocPlanner
-Created with CodeSandbox
